@@ -1,4 +1,6 @@
 %clear all; close all; 
+%This software was written to create a simulation of an impluse through another system. 
+%The given sample and the simulated output were compared and conclusions on the sampled systems transfer function were conducted.
 %Define TF and input variables
 wn = 2*pi*4;
 %Dampening factor calculated using Damp = (1/wn)*ln(Amplitude ratio) 
